@@ -63,4 +63,3 @@ document.getElementById("export-tasks").addEventListener("click", exportTasks);
  
 // Load the list of tasks when the page loads
 window.addEventListener("load", loadTasks);
- 
